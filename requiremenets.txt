@@ -1,0 +1,12 @@
+requests
+apscheduler
+django
+djangorestframework
+gevent
+redis
+celery
+dnspython
+BeautifulSoup4
+pluginbase
+selenium
+uwsgi
